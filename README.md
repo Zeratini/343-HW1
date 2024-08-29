@@ -1,2 +1,12 @@
 The common git commands that I will be using are:
-  
+  - git commit -m ""
+  - git pull
+  - git push
+  - git branch
+  - git status
+  - git checkout -b ""
+  - git checkout
+  - git init
+  - git clone
+  - git add
+  - git remote add ...
